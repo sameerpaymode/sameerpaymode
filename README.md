@@ -232,71 +232,11 @@ https://raw.githubusercontent.com/sameerpaymode/REPO-NAME/main/preview.png
 <br/>
 
 <!-- EDIT: replace GAMES-REPO-NAME with the name of your games repo -->
-<a href="https://sameerpaymode.github.io/GAMES-REPO-NAME/">
+<a href="https://sameerpaymode.github.io/Online-Games/">
   <img src="https://img.shields.io/badge/🕹️%20ENTER%20THE%20ARCADE-F43F5E?style=for-the-badge&labelColor=0D1117" alt="Enter the arcade" height="44" />
 </a>
 
 <br/><br/>
-
-<sub>Every game below runs 100% in your browser, hosted on GitHub Pages.</sub>
-
-</div>
-
-<br/>
-
-<!--
-HOW TO ADD A GAME: copy a <td> block, paste it in a <tr>, change the
-name / link / emoji. Games open at:
-https://sameerpaymode.github.io/GAMES-REPO-NAME/GAME-FOLDER/
--->
-
-<table align="center" width="100%">
-<tr>
-
-<!-- GAME 1 -->
-<td width="33%" align="center" valign="top">
-
-<img src="https://placehold.co/360x220/0D1117/F43F5E?text=GAME+01&font=montserrat" width="100%" alt="Game 01" />
-
-#### 🎲 Game Title
-
-*One-line pitch.*
-
-<a href="https://sameerpaymode.github.io/GAMES-REPO-NAME/GAME-FOLDER/">
-  <img src="https://img.shields.io/badge/▶%20PLAY-F43F5E?style=for-the-badge" alt="Play" />
-</a>
-
-</td>
-
-<!-- GAME 2 -->
-<td width="33%" align="center" valign="top">
-
-<img src="https://placehold.co/360x220/0D1117/F59E0B?text=GAME+02&font=montserrat" width="100%" alt="Game 02" />
-
-#### 🧩 Game Title
-
-*One-line pitch.*
-
-<a href="https://sameerpaymode.github.io/GAMES-REPO-NAME/GAME-FOLDER/">
-  <img src="https://img.shields.io/badge/▶%20PLAY-F59E0B?style=for-the-badge&logoColor=black" alt="Play" />
-</a>
-
-</td>
-
-<!-- GAME 3 -->
-<td width="33%" align="center" valign="top">
-
-<img src="https://placehold.co/360x220/0D1117/06B6D4?text=GAME+03&font=montserrat" width="100%" alt="Game 03" />
-
-#### 🏁 Game Title
-
-*One-line pitch.*
-
-<a href="https://sameerpaymode.github.io/GAMES-REPO-NAME/GAME-FOLDER/">
-  <img src="https://img.shields.io/badge/▶%20PLAY-06B6D4?style=for-the-badge" alt="Play" />
-</a>
-
-</td>
 
 </tr>
 </table>
