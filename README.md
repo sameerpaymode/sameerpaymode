@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,24&text=Sameer%20Paymode&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Builder%20%C2%B7%20Tinkerer%20%C2%B7%20Maker%20of%20things%20that%20run%20in%20your%20browser&descSize=18&descAlignY=58" width="100%" alt="Sameer Paymode banner" />
 
 <a href="https://github.com/sameerpaymode">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Sameer+%F0%9F%91%8B;I+build+things+and+ship+them+live;Every+project+below+is+one+click+to+try;Scroll+down+%E2%80%94+there+are+games+too+%F0%9F%8E%AE" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Sameer+%F0%9F%91%8B;AI+Engineer+%C2%B7+GenAI+%C2%B7+LLMs;I+build+AI+that+actually+works;Try+my+projects+live+below+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/>
