@@ -38,14 +38,17 @@
 <tr>
 <td width="62%" valign="top">
 
-### 👨‍💻 Hello, world.
+### 👨‍💻 Hey, I'm Sameer.
 
-<!-- EDIT: write your own description here -->
-I'm **Sameer Paymode**, a developer who loves turning ideas into things people can actually *use*.
-I like clean interfaces, small fast tools, and projects that open straight in the browser, no installs, no setup.
+I'm an **AI Engineer** who teaches machines to *understand, reason, and get things done*.
 
-<!-- EDIT: add 2–3 more lines about you: what you study / do, what you're learning, what you enjoy -->
-Right now I'm exploring **[what you're learning]** and building **[what you're building]**.
+For 2+ years I've been building **Generative AI** products: chatbots that actually know your company's data, and **AI agents** that don't just answer questions but take action. My work lives where cutting-edge AI meets real-world business, shipped, scaled, and production-ready.
+
+I work with both **open-source models** and heavyweights like **Azure OpenAI** and **Gemini**, picking the right brain for the right job.
+
+🏅 **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
+
+> 💡 *"Don't just build AI that talks. Build AI that works."*
 
 <br/>
 
@@ -56,11 +59,11 @@ Right now I'm exploring **[what you're learning]** and building **[what you're b
 
 ### ⚡ Quick Facts
 
-🔭 Working on → **[EDIT]**
-🌱 Learning → **[EDIT]**
-🎯 Focus → **[EDIT]**
-💬 Ask me about → **[EDIT]**
-📫 Reach me → **[EDIT: email]**
+🧠 Specialty → **LLMs · RAG · AI Agents**
+🏢 Built → **Enterprise-grade AI solutions**
+☁️ Cloud → **Azure · Google · AWS · oracle**
+🏅 Certified → **Azure AI Engineer (AI-102)**
+📫 Reach me → **sameerpaymode075@gmail.com**
 
 </td>
 </tr>
@@ -75,14 +78,15 @@ Right now I'm exploring **[what you're learning]** and building **[what you're b
 
 <br/><br/>
 
-<!-- EDIT: add / remove badges. Browse more at https://shields.io  or  https://simpleicons.org -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20DBs-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI--102%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 </div>
 
@@ -252,9 +256,8 @@ https://raw.githubusercontent.com/sameerpaymode/REPO-NAME/main/preview.png
 
 <!-- EDIT: replace links with your own -->
 <a href="https://github.com/sameerpaymode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sameerpaymode "><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sameerpaymode075@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
